@@ -1,0 +1,20 @@
+{
+  "name": "huso-car",
+  "version": "0.2.1",
+  "author": {
+    "name": "Huseyin Ogut",
+    "email": "aksamlan.01@gmail.com"
+  },
+  "contributors": [
+    "Benedikt D Valdez <benedikt@kolibri.is>"
+  ],
+  "description": "A library to look up license plates of cars",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aksamlan/huso-car.git"
+  },
+  "dependencies": {
+    "lodash": "^3.3.0",
+    "x-ray": "^1.0.3"
+  }
+}
